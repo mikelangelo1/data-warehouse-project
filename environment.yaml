@@ -1,0 +1,12 @@
+name: retail_dataware_house_project
+channels:
+  - defaults
+dependencies:
+- pandas
+- sqlalchemy
+- pymongo
+- requests
+- python-dotenv
+- pytest
+- pytest-mock
+prefix: /Users/mac/anaconda3/envs/retail_dataware_house_project
